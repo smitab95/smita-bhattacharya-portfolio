@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.firebase/
+.claude/
+/smita_profile.png
+/resume.pdf
+/public/smita_profile.png
