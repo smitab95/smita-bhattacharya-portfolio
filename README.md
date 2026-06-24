@@ -1,4 +1,29 @@
-# Smita Bhattacharya — Product Manager Portfolio
+<h1 align="center">Hi, I'm Smita 👋</h1>
+
+<p align="center">
+  <b>Senior Product Manager</b> · Building 0→1 products across <b>Fintech, BFSI & GenAI</b>
+</p>
+
+<p align="center">
+  I turn ambiguous problems into shipped products — defining strategy, owning roadmaps,<br/>
+  and pairing sharp metrics with real user behavior to build the right thing.
+</p>
+
+<p align="center">
+  <a href="https://smita-portfolio-a8be2.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/smita-bhattacharya9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:smitab95@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+# Product Manager Portfolio
 
 **Live site:** [smita-portfolio-a8be2.web.app](https://smita-portfolio-a8be2.web.app)
 
