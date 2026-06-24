@@ -23,24 +23,61 @@
 
 ---
 
-# Product Manager Portfolio
+### 🚀 What I work on
+
+- **0→1 product strategy** — taking products from a blank page to launch in fintech, lending, and marketplaces
+- **GenAI-native experiences** — conversational UI, intent classification, and AI guardrails built into core flows
+- **KYC / KYB / AML onboarding** — unifying fragmented verification APIs into single, fast onboarding journeys
+- **Behavioral product design** — using nudges, commitment devices, and metrics frameworks to drive real behavior change
+- **Metrics & experimentation** — North Star + input/guardrail metric frameworks, A/B testing, and RICE prioritization
+
+### 💡 About me
+
+I'm a Product Manager with experience across **Better.com (mortgage lending)**, **Justdial**, **Perfios**, and **IDFC First Bank** — spanning BFSI, fintech, and multi-vendor commerce. I love the messy 0→1 zone: finding the real problem, shaping a strategy, and shipping something measurable. Recently I've been building **GenAI-powered product experiences** and exploring how behavioral science makes financial products actually work for people.
+
+### 🏆 Featured work
+
+| Project | What it is | Impact |
+|---|---|---|
+| **[Commit](https://smita-portfolio-a8be2.web.app/)** | A commitment device that helps salaried India spend intentionally, with accountability partners and salary-triggered nudges | Full 0→1 PM case study + interactive prototype |
+| **AI Lead Intelligence** @ Justdial | AI intent-classification system to detect and restrict spam callers | **65% reduction** in spam calls, higher lead quality |
+| **Single-Click Onboarding** @ Perfios | Unified KYC/KYB/AML verification APIs into one onboarding flow | **50–60% faster** BFSI client onboarding; showcased at Global Fintech Fest |
+| **GoJD Multi-Vendor Commerce** | End-to-end discovery, catalog & purchase experience for a multi-vendor marketplace | Launched a scalable multi-vendor ecosystem |
+
+> 📂 **Full case studies & interactive prototypes →** [smita-portfolio-a8be2.web.app](https://smita-portfolio-a8be2.web.app/)
+
+### 🛠️ Skills & tools
+
+![Product Strategy](https://img.shields.io/badge/Product_Strategy-4F46E5?style=flat-square)
+![Go-to-Market](https://img.shields.io/badge/Go--to--Market-4F46E5?style=flat-square)
+![Roadmap Ownership](https://img.shields.io/badge/Roadmap_Ownership-4F46E5?style=flat-square)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-4F46E5?style=flat-square)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Mgmt-4F46E5?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile-4F46E5?style=flat-square)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+![GenAI](https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-0866FF?style=flat-square&logo=meta&logoColor=white)
+
+### 🎓 Education & certifications
+
+- **PGDM** — IMT Nagpur · **B.Com (Accounting)** — SNDT University
+- Certifications from **DeepLearning.AI**, **LinkedIn Learning**, and **PMI** — incl. *AI For Everyone*, *Generative AI for Product Managers*, *Building a Product Strategy*
+
+---
+
+## 💻 About this repository
+
+This repo contains the source code for my portfolio site.
 
 **Live site:** [smita-portfolio-a8be2.web.app](https://smita-portfolio-a8be2.web.app)
 
-## About
-
-Personal portfolio showcasing 7+ years of product management experience across AI products and fintech ecosystems — including work at Justdial, Perfios, and Better.com.
-
-## Projects Featured
-
-| # | Project | Company | Impact |
-|---|---------|---------|--------|
-| 01 | AI Lead Intelligence | Justdial | 65% reduction in spam calls |
-| 02 | AI Business Chatbot | Justdial | Increased business call adoption |
-| 03 | Single-Click Onboarding Platform | Perfios | 50-60% faster client onboarding |
-| 04 | GoJD Multi-Vendor Commerce | Justdial | Launched multi-vendor ecosystem |
-
-## Tech Stack
+### Tech stack
 
 - **React 19** + TypeScript
 - **Tailwind CSS v4**
@@ -48,7 +85,7 @@ Personal portfolio showcasing 7+ years of product management experience across A
 - **Vite** for bundling
 - **Firebase Hosting** for deployment
 
-## Running Locally
+### Running locally
 
 ```bash
 npm install
@@ -57,7 +94,6 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000)
 
-## Contact
+---
 
-- Email: smitab95@gmail.com
-- LinkedIn: [linkedin.com/in/smita-bhattacharya9](https://www.linkedin.com/in/smita-bhattacharya9/)
+<p align="center"><i>Let's connect — I'm always up for talking product, fintech, and GenAI. 📬</i></p>
