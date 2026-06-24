@@ -66,7 +66,7 @@ I'm a Product Manager with experience across **Better.com (mortgage lending)**, 
 
 ### 🎓 Education & certifications
 
-- **PGDM** — IMT Nagpur · **B.Com (Accounting)** — SNDT University
+- **PGDM** — IMT Nagpur
 - Certifications from **DeepLearning.AI**, **LinkedIn Learning**, and **PMI** — incl. *AI For Everyone*, *Generative AI for Product Managers*, *Building a Product Strategy*
 
 ---
@@ -91,8 +91,6 @@ This repo contains the source code for my portfolio site.
 npm install
 npm run dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000)
 
 ---
 
