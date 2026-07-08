@@ -224,6 +224,7 @@ const SKILLS = [
 ];
 
 const CERTIFICATIONS = [
+  { title: "Agentic AI", issuer: "DeepLearning.AI", date: "2026" },
   { title: "AI For Everyone", issuer: "DeepLearning.ai", date: "2026" },
   { title: "Building a Product Strategy", issuer: "Product Management Institute (PMI)", date: "2025" },
   { title: "Product Innovation for Product Managers", issuer: "PMI", date: "2025" },
