@@ -4,6 +4,13 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+    <!-- On load/refresh, strip any #hash so the URL resets to the clean base URL -->
+    <script>
+      if (window.location.hash) {
+        window.history.replaceState(null, "", window.location.pathname + window.location.search);
+      }
+    </script>
+
     <!-- Primary meta -->
     <title>Smita Bhattacharya — Product Manager</title>
     <meta
