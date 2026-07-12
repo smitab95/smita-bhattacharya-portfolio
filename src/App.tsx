@@ -1069,7 +1069,7 @@ export default function App() {
                 className="flex gap-3"
               >
                 <a
-                  href="https://www.linkedin.com/in/smita-bhattacharya9/"
+                  href="https://www.linkedin.com/in/smitabhattacharya9/"
                   target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"
                   className="p-3 rounded-xl border border-zinc-800 text-zinc-500 hover:text-blue-400 hover:border-blue-900 hover:-translate-y-0.5 transition-all duration-200"
                 >
@@ -1301,7 +1301,7 @@ export default function App() {
                   <Mail className="w-4 h-4" /> smitab95@gmail.com
                 </motion.a>
                 <motion.a
-                  href="https://www.linkedin.com/in/smita-bhattacharya9/"
+                  href="https://www.linkedin.com/in/smitabhattacharya9/"
                   target="_blank" rel="noopener noreferrer"
                   whileHover={{ scale: 1.03 }} whileTap={{ scale: 0.97 }}
                   transition={{ type: "spring", stiffness: 400, damping: 25 }}

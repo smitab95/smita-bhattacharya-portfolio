@@ -13,7 +13,7 @@
   <a href="https://smita-portfolio-a8be2.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/smita-bhattacharya9/">
+  <a href="https://www.linkedin.com/in/smitabhattacharya9/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:smitab95@gmail.com">
